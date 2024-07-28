@@ -1,6 +1,6 @@
 # Bing 主页元素屏蔽插件 (Bing Homepage Element Blocker)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/your-extension/blob/master/LICENSE)
+
 
 ## 下载地址 (Download)
 [火狐应用商店下载](https://addons.mozilla.org/addon/block-modulecont-elements/ )
@@ -61,6 +61,4 @@ Bing 主页元素屏蔽插件将会帮助您实现更简洁和干净的 Bing 主
 
 Bing 主页元素屏蔽插件尊重用户的隐私。我们不会收集或分享您的个人数据。有关详细信息，请查看我们的隐私政策。
 
-## 版权信息 (License)
 
-本扩展程序是根据 MIT 许可证发布的。有关详细信息，请查看 [LICENSE](LICENSE) 文件。
